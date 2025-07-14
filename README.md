@@ -3,8 +3,8 @@
 🌱 I’m a beginner in the world of coding, currently learning and growing every day.  
 💡 I'm passionate about technology, open source, and building cool things.  
 🚀 My goal is to become a full-stack developer and contribute to meaningful projects.  
-📚 Currently learning: `HTML`, `CSS`, `JavaScript`, and exploring `Python`  
-🎯 Next up: `React`, `Node.js`, and version control with `Git`  
+📚 Currently learning: HTML,  JavaScript, and exploring Python
+🎯 Next up: React, Node.js, and version control with Git
 
 ---
 
